@@ -1,2 +1,2 @@
-target_cidr = 10.0.0.0/24
-target_region = ap-south-1
+target_cidr = "10.0.0.0/16"
+target_region = "eu-west-3"
